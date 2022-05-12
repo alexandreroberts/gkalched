@@ -3,7 +3,7 @@
 */
 
 body {
-  font-family: Georgia, serif;
+  font-family: Times, serif;
   font-size: 16px;
   line-height: 1.6;
   padding-top: 10px;
@@ -290,7 +290,7 @@ sup {
 }
 @media screen and (min-width: 914px) {
     body {
-        width: 600px;
+        width: 800px;
         margin:0 auto;
     }
 }
